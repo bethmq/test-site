@@ -1,3 +1,3 @@
 # test-site
 
-project to create prototype e-learning website
+This project serves to create a prototype e-learning website
