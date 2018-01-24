@@ -53,11 +53,10 @@ body
 {
 	position: absolute;
 	width: 1500px;
-	height: 150px;
+	height: 130px;
 	background:rgba(25,44,16,0.8);
 	margin-right: auto;
 	margin-left: 220px;
-	
 	border-radius: 15px;
 	margin-top: 275px;
 	padding-top: 10px;
