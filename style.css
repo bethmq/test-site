@@ -52,14 +52,12 @@ body
 .treewelcome
 {
 	position: absolute;
-	width: 1500px;
-	height: 130px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -120%);
 	background:rgba(25,44,16,0.8);
-	margin-right: auto;
-	margin-left: 220px;
 	border-radius: 15px;
-	margin-top: 275px;
-	padding-top: 10px;
+	padding: 40px;
 }
 
 h1
@@ -79,8 +77,9 @@ p
 .button
 {
 	position: absolute;
-	margin-top: 460px;
-	margin-left: 800px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -5%);
 }
 
 .btn
@@ -93,7 +92,7 @@ p
 	background:rgba(61,29,19,0.5);
 	text-decoration: none;
 	margin-right: 5px;
-	font-size: 13px;
+	font-size: 16px;
 	font-family: "Helvetica", sans-serif;
 }
 
